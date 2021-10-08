@@ -1,0 +1,15 @@
+English
+
+1º Install python 3.6+ with path
+
+2º go to cmd and type "pip install requests==2.24.0", "pip install colorama==0.4.3", "pip install discord==1.0.1", "pip install pyfiglet==0.8.post1", "pip install selenium==3.141.0", "pip install discord_webhook"
+
+3º Open the program
+
+Portuguese
+
+1º Instalar o python 3.6+ com path
+
+2º ir ao cmd e fazer "pip install requests==2.24.0", "pip install colorama==0.4.3", "pip install discord==1.0.1", "pip install pyfiglet==0.8.post1", "pip install selenium==3.141.0", "pip install discord_webhook"
+
+3º Abrir o programa
